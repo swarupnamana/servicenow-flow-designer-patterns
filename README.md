@@ -1,0 +1,1 @@
+# servicenow-flow-designer-patterns
